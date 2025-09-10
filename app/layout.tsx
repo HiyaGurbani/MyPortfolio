@@ -19,9 +19,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Hiya Gurbani - Creative Problem Solver & Backend Developer",
+  title: "Hiya Gurbani || Portfolio",
   description:
-    "Portfolio of Hiya Gurbani - 3rd-year engineering student specializing in backend development, Spring Boot, and database systems.",
+    "Portfolio of Hiya Gurbani contains every necessary detail",
   generator: "v0.app",
 }
 
