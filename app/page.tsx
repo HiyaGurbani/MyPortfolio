@@ -239,7 +239,7 @@ export default function HomePage() {
                       <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground" />
                     </div>
                     <div>
-                      <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4>
+                      {/* <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4> */}
                       <ProfessionalTimeline
                         items={[
                           {
@@ -639,7 +639,7 @@ export default function HomePage() {
                         About Me
                       </h2>
                       <ArrowUpRight
-                        className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                        className="w-4 h-4 transition-opacity duration-300"
                         style={{ color: "#2C2C2C" }}
                       />
                     </div>
@@ -668,10 +668,10 @@ export default function HomePage() {
                   <div className="relative h-full flex flex-col">
                     <div className="flex items-center justify-between mb-4">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Professional Summary</h3>
-                      <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground" />
+                      <ArrowUpRight className="w-4 h-4 transition-opacity duration-300 text-card-foreground" />
                     </div>
                     <div>
-                      <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4>
+                      {/* <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4> */}
                       <ProfessionalTimeline
                         items={[
                           {
@@ -716,7 +716,7 @@ export default function HomePage() {
                   <div className="relative h-full flex flex-col">
                     <div className="flex items-center justify-between mb-4">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Projects</h3>
-                      <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground" />
+                      <ArrowUpRight className="w-4 h-4 transition-opacity duration-300 text-card-foreground" />
                     </div>
 
                     <p className="text-sm leading-relaxed  text-card-foreground">
@@ -779,7 +779,7 @@ export default function HomePage() {
                     <div className="flex items-center gap-3 mb-6">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Achievements</h3>
                       <ArrowUpRight
-                        className="w-5 h-5 ml-auto opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground"
+                        className="w-4 h-4 ml-auto transition-opacity duration-300 text-card-foreground"
                         style={{ color: "#F8F5F2" }}
                       />
                     </div>
@@ -810,7 +810,7 @@ export default function HomePage() {
                         Let's Connect
                       </h3>
                       <ArrowUpRight
-                        className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                        className="w-4 h-4 transition-opacity duration-300"
                         style={{ color: "#2C2C2C" }}
                       />
                     </div>
@@ -978,7 +978,7 @@ export default function HomePage() {
                         About Me
                       </h2>
                       <ArrowUpRight
-                        className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                        className="w-4 h-4 transition-opacity duration-300"
                         style={{ color: "#2C2C2C" }}
                       />
                     </div>
@@ -1007,10 +1007,10 @@ export default function HomePage() {
                   <div className="relative h-full flex flex-col">
                     <div className="flex items-center justify-between mb-4">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Professional Summary</h3>
-                      <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground" />
+                      <ArrowUpRight className="w-4 h-4 transition-opacity duration-300 text-card-foreground" />
                     </div>
                     <div>
-                      <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4>
+                      {/* <h4 className="font-medium text-sm mb-4 text-card-foreground">Timeline</h4> */}
                       <ProfessionalTimeline
                         items={[
                           {
@@ -1055,7 +1055,7 @@ export default function HomePage() {
                   <div className="relative h-full flex flex-col">
                     <div className="flex items-center justify-between mb-4">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Projects</h3>
-                      <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground" />
+                      <ArrowUpRight className="w-4 h-4 transition-opacity duration-300 text-card-foreground" />
                     </div>
 
                     <p className="text-sm leading-relaxed  text-card-foreground">
@@ -1118,7 +1118,7 @@ export default function HomePage() {
                     <div className="flex items-center gap-3 mb-6">
                       <h3 className="font-serif text-xl font-bold text-card-foreground">Achievements</h3>
                       <ArrowUpRight
-                        className="w-5 h-5 ml-auto opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-card-foreground"
+                        className="w-4 h-4 ml-auto transition-opacity duration-300 text-card-foreground"
                         style={{ color: "#F8F5F2" }}
                       />
                     </div>
@@ -1149,7 +1149,7 @@ export default function HomePage() {
                         Let's Connect
                       </h3>
                       <ArrowUpRight
-                        className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                        className="w-4 h-4 transition-opacity duration-300"
                         style={{ color: "#2C2C2C" }}
                       />
                     </div>
