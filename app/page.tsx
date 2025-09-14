@@ -355,7 +355,7 @@ export default function HomePage() {
                       }}
                     >
                       <a
-                        href="https://drive.google.com/file/d/1S11cyQwK4enJgXxONKAoBQ6RfJuSM2x9"
+                        href="https://drive.google.com/uc?export=download&id=1S11cyQwK4enJgXxONKAoBQ6RfJuSM2x9"
                         download="Resume-HiyaGurbani.pdf"
                         className="flex items-center justify-center"
                       >
@@ -588,7 +588,7 @@ export default function HomePage() {
                       onMouseLeave={(e) => {
                         e.currentTarget.style.backgroundColor = "#F5E9D4"
                       }}
-                      onClick={() => window.open("https://drive.google.com/file/d/1JcSp3siimx6mMbPCSzaXdNTjlYdshfH2/view", "_blank")}
+                      onClick={() => window.open("https://drive.google.com/file/d/1EQI2ixvuD1CuOeDWg2jaKTZ7u5jJDDuI/view", "_blank")}
                     >
                       <Eye className="w-4 h-4 mr-2" />
                       View Resume
@@ -611,7 +611,7 @@ export default function HomePage() {
                       }}
                     >
                       <a
-                        href="https://drive.google.com/uc?export=download&id=1JcSp3siimx6mMbPCSzaXdNTjlYdshfH2"
+                        href="https://drive.google.com/uc?export=download&id=1S11cyQwK4enJgXxONKAoBQ6RfJuSM2x9"
                         download="Resume-HiyaGurbani.pdf"
                         className="flex items-center justify-center"
                       >
@@ -927,7 +927,7 @@ export default function HomePage() {
                       onMouseLeave={(e) => {
                         e.currentTarget.style.backgroundColor = "#F5E9D4"
                       }}
-                      onClick={() => window.open("https://drive.google.com/file/d/1JcSp3siimx6mMbPCSzaXdNTjlYdshfH2/view", "_blank")}
+                      onClick={() => window.open("https://drive.google.com/file/d/1EQI2ixvuD1CuOeDWg2jaKTZ7u5jJDDuI/view", "_blank")}
                     >
                       <Eye className="w-4 h-4 mr-2" />
                       View Resume
@@ -950,7 +950,7 @@ export default function HomePage() {
                       }}
                     >
                       <a
-                        href="https://drive.google.com/uc?export=download&id=1JcSp3siimx6mMbPCSzaXdNTjlYdshfH2"
+                        href="https://drive.google.com/uc?export=download&id=1S11cyQwK4enJgXxONKAoBQ6RfJuSM2x9"
                         download="Resume-HiyaGurbani.pdf"
                         className="flex items-center justify-center"
                       >
